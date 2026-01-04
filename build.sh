@@ -40,7 +40,7 @@ fi
 if [ -f build/naval_cli ]; then
     echo ""
     echo "To run CLI example:"
-    echo "  ./build/naval_cli A C2 N1 1.338"
+    echo "  ./build/naval_cli --bond A C2 N1 1.338"
 fi
 if ls build/naval*.so 2>/dev/null | grep -q "naval.*\.so"; then
     echo ""
