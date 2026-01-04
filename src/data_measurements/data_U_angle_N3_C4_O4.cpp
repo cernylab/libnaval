@@ -1,0 +1,1971 @@
+// Auto-generated file - DO NOT EDIT
+// Data for U angle N3-C4-O4
+#include "libnaval/data.hpp"
+
+namespace libnaval {
+namespace data {
+
+static const RSEntryRaw rs_bin_34[] = {
+    { 2.020742, "5b2o", 1, "B", "U", "", 24, "" },
+};
+
+static const RSEntryRaw rs_bin_48[] = {
+    { 2.026153, "3czw", 1, "X", "U", "", 7, "" },
+};
+
+static const RSEntryRaw rs_bin_61[] = {
+    { 2.031214, "1msy", 1, "A", "U", "", 2650, "" },
+};
+
+static const RSEntryRaw rs_bin_62[] = {
+    { 2.031563, "3glp", 1, "A", "U", "", 6, "" },
+};
+
+static const RSEntryRaw rs_bin_63[] = {
+    { 2.032087, "2oe5", 1, "A", "U", "", 1406, "" },
+};
+
+static const RSEntryRaw rs_bin_72[] = {
+    { 2.035578, "2xs7", 1, "B", "U", "", 5, "" },
+};
+
+static const RSEntryRaw rs_bin_81[] = {
+    { 2.039417, "434d", 1, "A", "U", "", 5, "" },
+};
+
+static const RSEntryRaw rs_bin_95[] = {
+    { 2.044828, "1hq1", 1, "B", "U", "", 151, "" },
+};
+
+static const RSEntryRaw rs_bin_103[] = {
+    { 2.048144, "3czw", 1, "X", "U", "", 5, "" },
+};
+
+static const RSEntryRaw rs_bin_104[] = {
+    { 2.048493, "5b2o", 1, "B", "U", "", 47, "" },
+};
+
+static const RSEntryRaw rs_bin_106[] = {
+    { 2.049191, "4rby", 1, "A", "U", "", 107, "" },
+};
+
+static const RSEntryRaw rs_bin_114[] = {
+    { 2.052507, "1hq1", 1, "B", "U", "", 135, "" },
+};
+
+static const RSEntryRaw rs_bin_116[] = {
+    { 2.053380, "6dtd", 1, "C", "U", "", 15, "" },
+};
+
+static const RSEntryRaw rs_bin_119[] = {
+    { 2.054427, "6uv4", 1, "C", "U", "", 6, "" },
+};
+
+static const RSEntryRaw rs_bin_120[] = {
+    { 2.054776, "4xwf", 1, "A", "U", "", 11, "" },
+};
+
+static const RSEntryRaw rs_bin_121[] = {
+    { 2.055125, "5b2o", 1, "B", "U", "", 45, "" },
+};
+
+static const RSEntryRaw rs_bin_124[] = {
+    { 2.056172, "3pey", 1, "B", "U", "", 4, "" },
+    { 2.056347, "5b2o", 1, "B", "U", "", 52, "" },
+    { 2.056347, "6vrd", 1, "B", "U", "", 16, "" },
+};
+
+static const RSEntryRaw rs_bin_127[] = {
+    { 2.057394, "3nd3", 1, "A", "U", "", 12, "" },
+};
+
+static const RSEntryRaw rs_bin_128[] = {
+    { 2.057918, "2zko", 1, "D", "U", "", 17, "" },
+};
+
+static const RSEntryRaw rs_bin_129[] = {
+    { 2.058267, "6yl5", 1, "I", "U", "", 9, "" },
+};
+
+static const RSEntryRaw rs_bin_131[] = {
+    { 2.058965, "6e1t", 1, "A", "U", "", 6, "" },
+};
+
+static const RSEntryRaw rs_bin_132[] = {
+    { 2.059489, "6e1t", 1, "A", "U", "", 2, "" },
+};
+
+static const RSEntryRaw rs_bin_133[] = {
+    { 2.059838, "4kre", 1, "R", "U", "", 3, "" },
+    { 2.059838, "5fjc", 1, "A", "U", "", 5, "" },
+    { 2.059838, "7mky", 1, "A", "U", "", 19, "" },
+};
+
+static const RSEntryRaw rs_bin_134[] = {
+    { 2.060361, "1jid", 1, "B", "U", "", 162, "" },
+};
+
+static const RSEntryRaw rs_bin_136[] = {
+    { 2.061059, "6xjq", 1, "A", "U", "", 47, "" },
+    { 2.061059, "7mky", 1, "A", "U", "", 48, "" },
+    { 2.061234, "7c45", 1, "D", "U", "", 7, "" },
+};
+
+static const RSEntryRaw rs_bin_137[] = {
+    { 2.061583, "1t0e", 1, "A", "U", "", 11, "" },
+    { 2.061583, "2xnw", 1, "A", "U", "", 25, "" },
+    { 2.061583, "5c5w", 1, "A", "U", "", 8, "" },
+};
+
+static const RSEntryRaw rs_bin_139[] = {
+    { 2.062281, "2xs2", 1, "B", "U", "", 5, "" },
+    { 2.062456, "7p0v", 1, "B", "U", "", 149, "" },
+};
+
+static const RSEntryRaw rs_bin_140[] = {
+    { 2.062630, "4lvw", 1, "A", "U", "", 27, "" },
+    { 2.062630, "5b2o", 1, "B", "U", "", 17, "" },
+};
+
+static const RSEntryRaw rs_bin_141[] = {
+    { 2.063154, "2y8y", 1, "B", "U", "", 17, "" },
+    { 2.063154, "6bgb", 1, "B", "U", "", 14, "" },
+};
+
+static const RSEntryRaw rs_bin_143[] = {
+    { 2.063852, "1msy", 1, "A", "U", "", 2653, "" },
+};
+
+static const RSEntryRaw rs_bin_144[] = {
+    { 2.064375, "4kre", 1, "R", "U", "", 5, "" },
+};
+
+static const RSEntryRaw rs_bin_145[] = {
+    { 2.064550, "3nd3", 1, "A", "U", "", 15, "" },
+    { 2.064725, "4fej", 1, "B", "U", "", 34, "" },
+    { 2.064725, "7c45", 1, "D", "U", "", 8, "" },
+};
+
+static const RSEntryRaw rs_bin_146[] = {
+    { 2.064899, "6h0r", 1, "A", "U", "", 31, "" },
+    { 2.064899, "7vft", 1, "A", "U", "", 21, "" },
+    { 2.065248, "2ees", 1, "A", "U", "", 67, "" },
+    { 2.065248, "3nd3", 1, "A", "U", "", 14, "" },
+    { 2.065248, "3nd4", 1, "A", "U", "", 12, "" },
+};
+
+static const RSEntryRaw rs_bin_147[] = {
+    { 2.065423, "7eog", 1, "A", "U", "", 32, "" },
+};
+
+static const RSEntryRaw rs_bin_148[] = {
+    { 2.065772, "4lvw", 1, "A", "U", "", 7, "" },
+};
+
+static const RSEntryRaw rs_bin_149[] = {
+    { 2.066121, "2xo1", 1, "A", "U", "", 25, "" },
+    { 2.066121, "3nd3", 1, "A", "U", "", 16, "" },
+    { 2.066121, "6h0r", 1, "A", "U", "", 4, "" },
+};
+
+static const RSEntryRaw rs_bin_150[] = {
+    { 2.066644, "2xnw", 1, "A", "U", "", 67, "" },
+    { 2.066819, "7mky", 1, "A", "U", "", 6, "" },
+};
+
+static const RSEntryRaw rs_bin_151[] = {
+    { 2.066993, "6y0t", 1, "B", "U", "", 2650, "" },
+    { 2.066993, "7mky", 1, "A", "U", "", 53, "" },
+    { 2.067168, "6h0r", 1, "A", "U", "", 29, "" },
+};
+
+static const RSEntryRaw rs_bin_152[] = {
+    { 2.067342, "5d99", 1, "A", "U", "", 2672, "" },
+    { 2.067342, "6xjq", 1, "A", "U", "", 42, "" },
+};
+
+static const RSEntryRaw rs_bin_153[] = {
+    { 2.067692, "2xo1", 1, "A", "U", "", 74, "" },
+    { 2.067692, "2xs7", 1, "B", "U", "", 4, "" },
+    { 2.068041, "6dtd", 1, "C", "U", "", 8, "" },
+};
+
+static const RSEntryRaw rs_bin_154[] = {
+    { 2.068215, "4j39", 1, "B", "U", "", 12, "" },
+    { 2.068215, "6e1s", 1, "A", "U", "", 6, "" },
+    { 2.068215, "7mky", 1, "A", "U", "", 4, "" },
+};
+
+static const RSEntryRaw rs_bin_156[] = {
+    { 2.068913, "2xnw", 1, "A", "U", "", 20, "" },
+    { 2.068913, "2zy6", 1, "A", "U", "", 16, "" },
+    { 2.069262, "1hq1", 1, "B", "U", "", 138, "" },
+};
+
+static const RSEntryRaw rs_bin_157[] = {
+    { 2.069437, "2xo1", 1, "A", "U", "", 34, "" },
+    { 2.069437, "2xo1", 1, "A", "U", "", 67, "" },
+    { 2.069437, "7mky", 1, "A", "U", "", 10, "" },
+    { 2.069611, "5c5w", 1, "A", "U", "", 13, "" },
+};
+
+static const RSEntryRaw rs_bin_158[] = {
+    { 2.069960, "4n0t", 1, "B", "U", "", 88, "" },
+    { 2.069960, "4nxh", 1, "A", "U", "", 2656, "" },
+};
+
+static const RSEntryRaw rs_bin_160[] = {
+    { 2.070484, "3gvn", 1, "A", "U", "", 3, "" },
+    { 2.070659, "3zp8", 1, "A", "U", "", 6, "" },
+    { 2.070659, "6xh2", 1, "D", "U", "", 42, "" },
+    { 2.070833, "397d", 1, "A", "U", "", 25, "" },
+    { 2.070833, "4lvw", 1, "A", "U", "", 40, "" },
+    { 2.070833, "6b14", 1, "R", "U", "", 71, "" },
+};
+
+static const RSEntryRaw rs_bin_161[] = {
+    { 2.071008, "6b14", 1, "R", "U", "", 83, "" },
+    { 2.071182, "7eog", 1, "A", "U", "", 35, "" },
+};
+
+static const RSEntryRaw rs_bin_162[] = {
+    { 2.071357, "5b2o", 1, "B", "U", "", 68, "" },
+    { 2.071531, "2xnw", 1, "A", "U", "", 36, "" },
+    { 2.071531, "5fjc", 1, "A", "U", "", 57, "" },
+};
+
+static const RSEntryRaw rs_bin_164[] = {
+    { 2.072055, "5fjc", 1, "A", "U", "", 54, "" },
+    { 2.072055, "6xus", 1, "A", "U", "", 1007, "" },
+    { 2.072229, "2oe5", 1, "A", "U", "", 1413, "" },
+    { 2.072229, "5v3f", 1, "A", "U", "", 2, "" },
+    { 2.072229, "6bgb", 1, "B", "U", "", 8, "" },
+    { 2.072404, "1t0e", 1, "A", "U", "", 3, "" },
+    { 2.072404, "6dtd", 1, "C", "U", "", 4, "" },
+};
+
+static const RSEntryRaw rs_bin_165[] = {
+    { 2.072753, "7bpv", 1, "S", "U", "", 2, "" },
+};
+
+static const RSEntryRaw rs_bin_166[] = {
+    { 2.072928, "3sj2", 1, "A", "U", "", 17, "" },
+    { 2.072928, "4xwf", 1, "A", "U", "", 4, "" },
+    { 2.073102, "2zko", 1, "D", "U", "", 12, "" },
+};
+
+static const RSEntryRaw rs_bin_167[] = {
+    { 2.073277, "1fuf", 1, "A", "U", "", 5, "" },
+    { 2.073277, "4lgt", 1, "E", "U", "", 2593, "" },
+    { 2.073277, "4lvw", 1, "A", "U", "", 25, "" },
+    { 2.073277, "4nmg", 1, "A", "U", "", 2672, "" },
+    { 2.073451, "4lvw", 1, "A", "U", "", 86, "" },
+    { 2.073451, "4pco", 1, "A", "U", "", 10, "" },
+    { 2.073626, "5b2o", 1, "B", "U", "", 7, "" },
+    { 2.073626, "6y0y", 1, "A", "U", "", 2656, "" },
+    { 2.073626, "7c45", 1, "D", "U", "", 11, "" },
+};
+
+static const RSEntryRaw rs_bin_168[] = {
+    { 2.073975, "7c45", 1, "D", "U", "", 12, "" },
+};
+
+static const RSEntryRaw rs_bin_169[] = {
+    { 2.074149, "5fjc", 1, "A", "U", "", 4, "" },
+    { 2.074149, "5l00", 1, "A", "U", "", 7, "" },
+    { 2.074149, "5yts", 1, "B", "U", "", 3, "" },
+    { 2.074149, "6xjq", 1, "A", "U", "", 51, "" },
+    { 2.074149, "6y0y", 1, "A", "U", "", 2653, "" },
+    { 2.074324, "4nxh", 1, "A", "U", "", 2672, "" },
+};
+
+static const RSEntryRaw rs_bin_170[] = {
+    { 2.074498, "6h0r", 1, "A", "U", "", 25, "" },
+    { 2.074673, "4z4d", 1, "B", "U", "", 2, "" },
+    { 2.074673, "6bgb", 1, "B", "U", "", 7, "" },
+};
+
+static const RSEntryRaw rs_bin_171[] = {
+    { 2.075022, "2y8w", 1, "B", "U", "", 17, "" },
+    { 2.075196, "2ees", 1, "A", "U", "", 20, "" },
+};
+
+static const RSEntryRaw rs_bin_172[] = {
+    { 2.075371, "4rbq", 1, "A", "U", "", 19, "" },
+    { 2.075546, "6tqb", 1, "B", "U", "", 14, "" },
+};
+
+static const RSEntryRaw rs_bin_173[] = {
+    { 2.075720, "3la5", 1, "A", "U", "", 25, "" },
+    { 2.075720, "4lvw", 1, "A", "U", "", 35, "" },
+    { 2.075720, "6xus", 1, "A", "U", "", 1008, "" },
+    { 2.075895, "2oiy", 1, "A", "U", "", 3, "" },
+    { 2.075895, "7mky", 1, "A", "U", "", 56, "" },
+};
+
+static const RSEntryRaw rs_bin_174[] = {
+    { 2.076069, "4fej", 1, "B", "U", "", 69, "" },
+    { 2.076069, "5hby", 1, "A", "U", "", 7, "" },
+    { 2.076244, "7mjw", 1, "G", "U", "", 39, "" },
+};
+
+static const RSEntryRaw rs_bin_175[] = {
+    { 2.076418, "2v7r", 1, "A", "U", "", 5, "" },
+    { 2.076418, "4fel", 1, "B", "U", "", 51, "" },
+    { 2.076418, "4nxh", 1, "A", "U", "", 2653, "" },
+    { 2.076418, "7mky", 1, "A", "U", "", 22, "" },
+    { 2.076593, "4lvw", 1, "A", "U", "", 81, "" },
+    { 2.076593, "4nfq", 1, "A", "U", "", 8, "" },
+    { 2.076767, "4mdx", 1, "C", "U", "", 7, "" },
+    { 2.076767, "4z4e", 1, "D", "U", "", 4, "" },
+    { 2.076767, "6h0r", 1, "A", "U", "", 10, "" },
+};
+
+static const RSEntryRaw rs_bin_176[] = {
+    { 2.076942, "2xnw", 1, "A", "U", "", 77, "" },
+    { 2.076942, "5d99", 1, "A", "U", "", 2656, "" },
+    { 2.076942, "7f3k", 1, "B", "U", "", 6, "" },
+    { 2.076942, "7l3r", 1, "A", "U", "", 2676, "" },
+    { 2.077116, "2xo1", 1, "A", "U", "", 77, "" },
+};
+
+static const RSEntryRaw rs_bin_177[] = {
+    { 2.077291, "5nxt", 1, "U", "U", "", 37, "" },
+    { 2.077465, "4lvw", 1, "A", "U", "", 31, "" },
+    { 2.077465, "4rbq", 1, "A", "U", "", 32, "" },
+    { 2.077465, "5nxt", 1, "U", "U", "", 33, "" },
+};
+
+static const RSEntryRaw rs_bin_178[] = {
+    { 2.077640, "1ik5", 1, "B", "U", "", 19, "" },
+    { 2.077640, "1msy", 1, "A", "U", "", 2672, "" },
+    { 2.077989, "4feo", 1, "B", "U", "", 77, "" },
+    { 2.077989, "4u3l", 1, "A", "U", "", 4, "" },
+    { 2.077989, "5b2o", 1, "B", "U", "", 82, "" },
+    { 2.077989, "7kun", 1, "A", "U", "", 8, "" },
+};
+
+static const RSEntryRaw rs_bin_179[] = {
+    { 2.078164, "1hq1", 1, "B", "U", "", 137, "" },
+    { 2.078164, "1ik5", 1, "B", "U", "", 17, "" },
+    { 2.078164, "3la5", 1, "A", "U", "", 31, "" },
+    { 2.078338, "6e1s", 1, "A", "U", "", 2, "" },
+};
+
+static const RSEntryRaw rs_bin_180[] = {
+    { 2.078513, "3nd3", 1, "A", "U", "", 13, "" },
+    { 2.078513, "4n0t", 1, "B", "U", "", 54, "" },
+    { 2.078513, "5b2o", 1, "B", "U", "", 78, "" },
+    { 2.078687, "1msy", 1, "A", "U", "", 2656, "" },
+    { 2.078687, "6b14", 1, "R", "U", "", 67, "" },
+    { 2.078687, "7mky", 1, "A", "U", "", 29, "" },
+};
+
+static const RSEntryRaw rs_bin_181[] = {
+    { 2.078862, "1kd5", 1, "B", "U", "", 3, "" },
+    { 2.078862, "2oe5", 1, "A", "U", "", 1410, "" },
+    { 2.078862, "3syw", 1, "A", "U", "", 8, "" },
+    { 2.078862, "5fjc", 1, "A", "U", "", 26, "" },
+    { 2.079036, "2pwt", 1, "B", "U", "", 41, "" },
+    { 2.079036, "3pey", 1, "B", "U", "", 3, "" },
+    { 2.079036, "4n0t", 1, "B", "U", "", 38, "" },
+    { 2.079036, "4u3l", 1, "A", "U", "", 1, "" },
+};
+
+static const RSEntryRaw rs_bin_182[] = {
+    { 2.079211, "6yl5", 1, "I", "U", "", 28, "" },
+    { 2.079385, "3la5", 1, "A", "U", "", 20, "" },
+    { 2.079385, "6tqb", 1, "B", "U", "", 9, "" },
+};
+
+static const RSEntryRaw rs_bin_183[] = {
+    { 2.079734, "4fep", 1, "B", "U", "", 69, "" },
+    { 2.079734, "6kwq", 1, "C", "U", "", 693, "" },
+    { 2.079909, "4feo", 1, "B", "U", "", 75, "" },
+    { 2.079909, "4j39", 1, "B", "U", "", 15, "" },
+    { 2.079909, "4rbq", 1, "A", "U", "", 17, "" },
+    { 2.079909, "4rbq", 1, "A", "U", "", 20, "" },
+    { 2.079909, "6e8u", 1, "B", "U", "", 32, "" },
+    { 2.079909, "7jje", 1, "A", "U", "", 2656, "" },
+};
+
+static const RSEntryRaw rs_bin_184[] = {
+    { 2.080083, "5hnj", 1, "C", "U", "", 6, "" },
+    { 2.080083, "6b14", 1, "R", "U", "", 15, "" },
+    { 2.080083, "6bgb", 1, "B", "U", "", 12, "" },
+    { 2.080258, "1ik5", 1, "B", "U", "", 25, "" },
+    { 2.080258, "1qc0", 1, "A", "U", "", 17, "" },
+    { 2.080258, "4fel", 1, "B", "U", "", 34, "" },
+    { 2.080258, "4feo", 1, "B", "U", "", 34, "" },
+    { 2.080258, "5b2o", 1, "B", "U", "", 12, "" },
+};
+
+static const RSEntryRaw rs_bin_185[] = {
+    { 2.080432, "2xnw", 1, "A", "U", "", 75, "" },
+    { 2.080432, "4fel", 1, "B", "U", "", 77, "" },
+    { 2.080432, "4fep", 1, "B", "U", "", 20, "" },
+    { 2.080432, "4lgt", 1, "E", "U", "", 2604, "" },
+    { 2.080432, "6h0r", 1, "A", "U", "", 23, "" },
+    { 2.080607, "4fel", 1, "B", "U", "", 75, "" },
+    { 2.080607, "4lvw", 1, "A", "U", "", 20, "" },
+};
+
+static const RSEntryRaw rs_bin_186[] = {
+    { 2.080782, "7kun", 1, "A", "U", "", 7, "" },
+    { 2.080956, "1dfu", 1, "N", "U", "", 80, "" },
+    { 2.080956, "4fej", 1, "B", "U", "", 25, "" },
+    { 2.080956, "4feo", 1, "B", "U", "", 51, "" },
+    { 2.081131, "2zy6", 1, "A", "U", "", 8, "" },
+    { 2.081131, "5b2o", 1, "B", "U", "", 25, "" },
+    { 2.081131, "5hnj", 1, "C", "U", "", 2, "" },
+};
+
+static const RSEntryRaw rs_bin_187[] = {
+    { 2.081305, "1fuf", 1, "A", "U", "", 11, "" },
+    { 2.081305, "1fxl", 1, "B", "U", "", 9, "" },
+    { 2.081305, "4fen", 1, "B", "U", "", 34, "" },
+    { 2.081305, "4lvw", 1, "A", "U", "", 77, "" },
+    { 2.081305, "4z4d", 1, "B", "U", "", 8, "" },
+    { 2.081480, "1q96", 1, "A", "U", "", 7, "" },
+    { 2.081480, "2g3s", 1, "I", "U", "", 505, "" },
+    { 2.081480, "4fej", 1, "B", "U", "", 51, "" },
+    { 2.081480, "4fel", 1, "B", "U", "", 20, "" },
+    { 2.081480, "6hc5", 1, "A", "U", "", 3, "" },
+    { 2.081480, "7jje", 1, "A", "U", "", 2672, "" },
+};
+
+static const RSEntryRaw rs_bin_188[] = {
+    { 2.081654, "1fxl", 1, "B", "U", "", 10, "" },
+    { 2.081654, "2nug", 1, "C", "U", "", 10, "" },
+    { 2.081654, "2nug", 1, "C", "U", "", 6, "" },
+    { 2.081654, "4fep", 1, "B", "U", "", 67, "" },
+    { 2.081654, "4nfq", 1, "A", "U", "", 14, "" },
+    { 2.081654, "4rbq", 1, "A", "U", "", 22, "" },
+    { 2.081654, "4rbq", 1, "A", "U", "", 29, "" },
+    { 2.081654, "5hby", 1, "A", "U", "", 8, "" },
+    { 2.081829, "1q96", 1, "A", "U", "", 4, "" },
+    { 2.081829, "4fen", 1, "B", "U", "", 20, "" },
+    { 2.081829, "5mwi", 1, "A", "U", "", 6, "" },
+    { 2.081829, "6tqb", 1, "B", "U", "", 8, "" },
+};
+
+static const RSEntryRaw rs_bin_189[] = {
+    { 2.082003, "2ees", 1, "A", "U", "", 34, "" },
+    { 2.082003, "5ay2", 1, "A", "U", "", 10, "" },
+    { 2.082003, "5fjc", 1, "A", "U", "", 88, "" },
+    { 2.082178, "4fen", 1, "B", "U", "", 75, "" },
+    { 2.082178, "4lvw", 1, "A", "U", "", 69, "" },
+    { 2.082178, "7a9o", 1, "L", "U", "", 95, "" },
+    { 2.082352, "1dfu", 1, "N", "U", "", 74, "" },
+    { 2.082352, "5ay2", 1, "A", "U", "", 5, "" },
+    { 2.082352, "7eog", 1, "A", "U", "", 40, "" },
+};
+
+static const RSEntryRaw rs_bin_190[] = {
+    { 2.082527, "1zci", 1, "A", "U", "", 6, "" },
+    { 2.082527, "2oe8", 1, "A", "U", "", 1406, "" },
+    { 2.082527, "2zy6", 1, "A", "U", "", 17, "" },
+    { 2.082527, "4fej", 1, "B", "U", "", 77, "" },
+    { 2.082527, "4rbq", 1, "A", "U", "", 26, "" },
+    { 2.082701, "2pwt", 1, "B", "U", "", 27, "" },
+    { 2.082701, "4fe5", 1, "B", "U", "", 25, "" },
+    { 2.082701, "4fe5", 1, "B", "U", "", 30, "" },
+    { 2.082701, "4fe5", 1, "B", "U", "", 69, "" },
+    { 2.082701, "6b14", 1, "R", "U", "", 78, "" },
+};
+
+static const RSEntryRaw rs_bin_191[] = {
+    { 2.082876, "1sds", 1, "D", "U", "", 203, "" },
+    { 2.083050, "1sds", 1, "D", "U", "", 207, "" },
+    { 2.083050, "2r1s", 1, "A", "U", "", 5, "" },
+    { 2.083050, "3gm7", 1, "G", "U", "", 14, "" },
+    { 2.083050, "4fej", 1, "B", "U", "", 20, "" },
+    { 2.083050, "4rbq", 1, "A", "U", "", 27, "" },
+    { 2.083050, "4z4d", 1, "B", "U", "", 7, "" },
+};
+
+static const RSEntryRaw rs_bin_192[] = {
+    { 2.083225, "1q96", 1, "A", "U", "", 13, "" },
+    { 2.083225, "2pwt", 1, "B", "U", "", 36, "" },
+    { 2.083225, "3zp8", 1, "A", "U", "", 16, "" },
+    { 2.083225, "4fe5", 1, "B", "U", "", 20, "" },
+    { 2.083225, "4fe5", 1, "B", "U", "", 77, "" },
+    { 2.083225, "5jaj", 1, "X", "U", "", 7, "" },
+    { 2.083400, "4fen", 1, "B", "U", "", 30, "" },
+    { 2.083400, "4j50", 1, "B", "U", "", 17, "" },
+    { 2.083400, "4rbq", 1, "A", "U", "", 30, "" },
+};
+
+static const RSEntryRaw rs_bin_193[] = {
+    { 2.083574, "2ees", 1, "A", "U", "", 25, "" },
+    { 2.083574, "4fep", 1, "B", "U", "", 30, "" },
+    { 2.083574, "4fep", 1, "B", "U", "", 75, "" },
+    { 2.083574, "4zld", 1, "B", "U", "", 16, "" },
+    { 2.083574, "5fjc", 1, "A", "U", "", 7, "" },
+    { 2.083574, "5lr3", 1, "A", "U", "", 7, "" },
+    { 2.083749, "1t0e", 1, "A", "U", "", 15, "" },
+    { 2.083749, "2r1s", 1, "A", "U", "", 4, "" },
+    { 2.083749, "3cgs", 1, "B", "U", "", 19, "" },
+    { 2.083749, "4fe5", 1, "B", "U", "", 34, "" },
+    { 2.083749, "4fej", 1, "B", "U", "", 30, "" },
+    { 2.083749, "4feo", 1, "B", "U", "", 79, "" },
+    { 2.083749, "4fep", 1, "B", "U", "", 34, "" },
+    { 2.083749, "5dhc", 1, "C", "U", "", 14, "" },
+    { 2.083749, "5mrx", 1, "A", "U", "", 2672, "" },
+    { 2.083749, "6xh2", 1, "D", "U", "", 40, "" },
+    { 2.083749, "7eoh", 1, "A", "U", "", 32, "" },
+    { 2.083923, "4fep", 1, "B", "U", "", 77, "" },
+    { 2.083923, "5yts", 1, "B", "U", "", 4, "" },
+    { 2.083923, "6y0t", 1, "B", "U", "", 2656, "" },
+    { 2.083923, "7a9n", 1, "K", "U", "", 80, "" },
+    { 2.083923, "7kun", 1, "A", "U", "", 12, "" },
+};
+
+static const RSEntryRaw rs_bin_194[] = {
+    { 2.084098, "1zci", 1, "A", "U", "", 3, "" },
+    { 2.084098, "2q1o", 1, "C", "U", "", 108, "" },
+    { 2.084098, "4rbq", 1, "A", "U", "", 31, "" },
+    { 2.084272, "1dfu", 1, "N", "U", "", 77, "" },
+    { 2.084272, "4feo", 1, "B", "U", "", 67, "" },
+    { 2.084272, "4nlf", 1, "A", "U", "", 2656, "" },
+    { 2.084272, "7lne", 1, "B", "U", "", 7, "" },
+};
+
+static const RSEntryRaw rs_bin_195[] = {
+    { 2.084447, "4fen", 1, "B", "U", "", 51, "" },
+    { 2.084447, "4lvw", 1, "A", "U", "", 45, "" },
+    { 2.084447, "4lvw", 1, "A", "U", "", 76, "" },
+    { 2.084447, "4rbq", 1, "A", "U", "", 23, "" },
+    { 2.084621, "4fe5", 1, "B", "U", "", 36, "" },
+    { 2.084621, "4fe5", 1, "B", "U", "", 51, "" },
+    { 2.084621, "4fen", 1, "B", "U", "", 77, "" },
+    { 2.084621, "4fep", 1, "B", "U", "", 74, "" },
+    { 2.084621, "6h0r", 1, "A", "U", "", 19, "" },
+    { 2.084621, "7mky", 1, "A", "U", "", 51, "" },
+};
+
+static const RSEntryRaw rs_bin_196[] = {
+    { 2.084796, "1dfu", 1, "N", "U", "", 82, "" },
+    { 2.084796, "4fel", 1, "B", "U", "", 67, "" },
+    { 2.084796, "4fen", 1, "B", "U", "", 69, "" },
+    { 2.084796, "4nfq", 1, "A", "U", "", 12, "" },
+    { 2.084796, "4u35", 1, "B", "U", "", 10, "" },
+    { 2.084796, "5mwi", 1, "A", "U", "", 21, "" },
+    { 2.084796, "7l3r", 1, "A", "U", "", 2656, "" },
+    { 2.084970, "2xo1", 1, "A", "U", "", 20, "" },
+    { 2.084970, "4fel", 1, "B", "U", "", 36, "" },
+    { 2.084970, "4fen", 1, "B", "U", "", 36, "" },
+    { 2.084970, "4feo", 1, "B", "U", "", 36, "" },
+    { 2.084970, "4wan", 1, "B", "U", "", 6, "" },
+};
+
+static const RSEntryRaw rs_bin_197[] = {
+    { 2.085145, "4rbq", 1, "A", "U", "", 25, "" },
+    { 2.085319, "1lnt", 1, "A", "U", "", 4, "" },
+    { 2.085319, "3syw", 1, "A", "U", "", 2, "" },
+    { 2.085319, "6xlw", 1, "B", "U", "", 3, "" },
+    { 2.085494, "4feo", 1, "B", "U", "", 20, "" },
+    { 2.085494, "4lvw", 1, "A", "U", "", 29, "" },
+    { 2.085494, "4rbq", 1, "A", "U", "", 24, "" },
+    { 2.085494, "4xwf", 1, "A", "U", "", 7, "" },
+    { 2.085494, "4zld", 1, "B", "U", "", 6, "" },
+    { 2.085494, "7p0v", 1, "B", "U", "", 156, "" },
+};
+
+static const RSEntryRaw rs_bin_198[] = {
+    { 2.085668, "4fep", 1, "B", "U", "", 51, "" },
+    { 2.085668, "4u35", 1, "B", "U", "", 13, "" },
+    { 2.085668, "5fjc", 1, "A", "U", "", 81, "" },
+    { 2.085843, "4fen", 1, "B", "U", "", 67, "" },
+};
+
+static const RSEntryRaw rs_bin_199[] = {
+    { 2.086018, "2zko", 1, "D", "U", "", 10, "" },
+    { 2.086018, "2zy6", 1, "A", "U", "", 29, "" },
+    { 2.086018, "3nd3", 1, "A", "U", "", 9, "" },
+    { 2.086018, "4jah", 1, "B", "U", "", 12, "" },
+    { 2.086018, "5dhc", 1, "C", "U", "", 7, "" },
+    { 2.086018, "5jaj", 1, "X", "U", "", 3, "" },
+    { 2.086192, "1fuf", 1, "A", "U", "", 3, "" },
+    { 2.086192, "2nug", 1, "C", "U", "", 9, "" },
+    { 2.086192, "2xs2", 1, "B", "U", "", 4, "" },
+    { 2.086192, "4fe5", 1, "B", "U", "", 75, "" },
+    { 2.086192, "4feo", 1, "B", "U", "", 47, "" },
+    { 2.086192, "4nlf", 1, "A", "U", "", 2653, "" },
+    { 2.086192, "5d99", 1, "A", "U", "", 2653, "" },
+    { 2.086192, "6y0y", 1, "A", "U", "", 2672, "" },
+};
+
+static const RSEntryRaw rs_bin_200[] = {
+    { 2.086367, "3cjz", 1, "B", "U", "", 23, "" },
+    { 2.086367, "4fej", 1, "B", "U", "", 75, "" },
+    { 2.086367, "4fep", 1, "B", "U", "", 36, "" },
+    { 2.086541, "2xnw", 1, "A", "U", "", 30, "" },
+    { 2.086541, "3cgs", 1, "B", "U", "", 16, "" },
+    { 2.086541, "434d", 1, "A", "U", "", 1, "" },
+    { 2.086541, "6ugj", 1, "A", "U", "", 28, "" },
+    { 2.086541, "7jje", 1, "A", "U", "", 2653, "" },
+    { 2.086716, "4rbq", 1, "A", "U", "", 28, "" },
+    { 2.086716, "4z4e", 1, "D", "U", "", 6, "" },
+    { 2.086716, "5dhc", 1, "C", "U", "", 8, "" },
+    { 2.086716, "5dno", 1, "B", "U", "", 2, "" },
+    { 2.086716, "6b14", 1, "R", "U", "", 18, "" },
+    { 2.086716, "6tqb", 1, "B", "U", "", 17, "" },
+};
+
+static const RSEntryRaw rs_bin_201[] = {
+    { 2.086890, "5vj9", 1, "C", "U", "", 14, "" },
+    { 2.086890, "6e8u", 1, "B", "U", "", 35, "" },
+    { 2.087065, "1q96", 1, "A", "U", "", 11, "" },
+    { 2.087065, "6e8u", 1, "B", "U", "", 2, "" },
+};
+
+static const RSEntryRaw rs_bin_202[] = {
+    { 2.087239, "2xnw", 1, "A", "U", "", 69, "" },
+    { 2.087239, "4nlf", 1, "A", "U", "", 2672, "" },
+    { 2.087239, "4pco", 1, "A", "U", "", 3, "" },
+    { 2.087239, "6vrd", 1, "B", "U", "", 12, "" },
+    { 2.087414, "4rbq", 1, "A", "U", "", 21, "" },
+    { 2.087414, "5fjc", 1, "A", "U", "", 67, "" },
+};
+
+static const RSEntryRaw rs_bin_203[] = {
+    { 2.087588, "6ugj", 1, "A", "U", "", 24, "" },
+    { 2.087763, "2xo1", 1, "A", "U", "", 30, "" },
+    { 2.087763, "3cgp", 1, "A", "U", "", 9, "" },
+    { 2.087763, "4zld", 1, "B", "U", "", 5, "" },
+};
+
+static const RSEntryRaw rs_bin_204[] = {
+    { 2.088112, "2vuq", 1, "A", "U", "", 5, "" },
+    { 2.088112, "5mrx", 1, "A", "U", "", 2653, "" },
+    { 2.088286, "4xwf", 1, "A", "U", "", 22, "" },
+};
+
+static const RSEntryRaw rs_bin_205[] = {
+    { 2.088461, "1lnt", 1, "A", "U", "", 9, "" },
+    { 2.088461, "3la5", 1, "A", "U", "", 36, "" },
+    { 2.088461, "6yl5", 1, "I", "U", "", 23, "" },
+    { 2.088636, "4fel", 1, "B", "U", "", 69, "" },
+    { 2.088636, "4feo", 1, "B", "U", "", 69, "" },
+    { 2.088636, "6ugj", 1, "A", "U", "", 29, "" },
+};
+
+static const RSEntryRaw rs_bin_206[] = {
+    { 2.088810, "3zp8", 1, "A", "U", "", 9, "" },
+    { 2.088810, "6h0r", 1, "A", "U", "", 27, "" },
+    { 2.088985, "4o41", 1, "B", "U", "", 212, "" },
+};
+
+static const RSEntryRaw rs_bin_207[] = {
+    { 2.089159, "2ees", 1, "A", "U", "", 77, "" },
+    { 2.089159, "4fej", 1, "B", "U", "", 36, "" },
+    { 2.089159, "5nxt", 1, "U", "U", "", 35, "" },
+    { 2.089159, "7thb", 1, "E", "U", "", 5, "" },
+    { 2.089334, "4fe5", 1, "B", "U", "", 67, "" },
+};
+
+static const RSEntryRaw rs_bin_208[] = {
+    { 2.089508, "6dtd", 1, "C", "U", "", 3, "" },
+    { 2.089683, "1zci", 1, "A", "U", "", 11, "" },
+    { 2.089857, "3la5", 1, "A", "U", "", 71, "" },
+    { 2.089857, "3la5", 1, "A", "U", "", 77, "" },
+    { 2.089857, "4nfq", 1, "A", "U", "", 7, "" },
+    { 2.089857, "5fjc", 1, "A", "U", "", 80, "" },
+};
+
+static const RSEntryRaw rs_bin_209[] = {
+    { 2.090032, "2ees", 1, "A", "U", "", 36, "" },
+    { 2.090032, "4rbq", 1, "A", "U", "", 18, "" },
+    { 2.090032, "5c5w", 1, "A", "U", "", 14, "" },
+    { 2.090032, "5dhc", 1, "C", "U", "", 12, "" },
+    { 2.090206, "4jah", 1, "B", "U", "", 10, "" },
+    { 2.090206, "5tko", 1, "B", "U", "", 13, "" },
+};
+
+static const RSEntryRaw rs_bin_210[] = {
+    { 2.090381, "7lne", 1, "B", "U", "", 12, "" },
+    { 2.090555, "1hq1", 1, "B", "U", "", 133, "" },
+    { 2.090555, "2y8w", 1, "B", "U", "", 23, "" },
+    { 2.090555, "2zko", 1, "D", "U", "", 9, "" },
+    { 2.090555, "4fel", 1, "B", "U", "", 30, "" },
+    { 2.090555, "4zld", 1, "B", "U", "", 15, "" },
+};
+
+static const RSEntryRaw rs_bin_211[] = {
+    { 2.090730, "7eoh", 1, "A", "U", "", 14, "" },
+    { 2.090904, "5b2o", 1, "B", "U", "", 8, "" },
+    { 2.090904, "7l3r", 1, "A", "U", "", 2653, "" },
+    { 2.091079, "4feo", 1, "B", "U", "", 30, "" },
+};
+
+static const RSEntryRaw rs_bin_213[] = {
+    { 2.091777, "5d8t", 1, "A", "U", "", 6, "" },
+};
+
+static const RSEntryRaw rs_bin_214[] = {
+    { 2.091952, "2xo1", 1, "A", "U", "", 69, "" },
+    { 2.091952, "6dtd", 1, "C", "U", "", 17, "" },
+    { 2.092126, "3zp8", 1, "A", "U", "", 23, "" },
+};
+
+static const RSEntryRaw rs_bin_215[] = {
+    { 2.092301, "2oiy", 1, "A", "U", "", 2, "" },
+    { 2.092301, "2oiy", 1, "A", "U", "", 6, "" },
+    { 2.092301, "5dhb", 1, "A", "U", "", 4, "" },
+    { 2.092301, "5mwi", 1, "A", "U", "", 24, "" },
+    { 2.092301, "5nxt", 1, "U", "U", "", 30, "" },
+    { 2.092475, "4lvw", 1, "A", "U", "", 15, "" },
+};
+
+static const RSEntryRaw rs_bin_216[] = {
+    { 2.092824, "4nlf", 1, "A", "U", "", 2650, "" },
+    { 2.092999, "3la5", 1, "A", "U", "", 39, "" },
+};
+
+static const RSEntryRaw rs_bin_217[] = {
+    { 2.093173, "3pey", 1, "B", "U", "", 2, "" },
+    { 2.093173, "4fej", 1, "B", "U", "", 24, "" },
+    { 2.093173, "7ndj", 1, "C", "U", "", 2, "" },
+    { 2.093348, "2xo1", 1, "A", "U", "", 75, "" },
+    { 2.093348, "3la5", 1, "A", "U", "", 34, "" },
+    { 2.093348, "3pf4", 1, "R", "U", "", 4, "" },
+};
+
+static const RSEntryRaw rs_bin_219[] = {
+    { 2.094046, "3la5", 1, "A", "U", "", 40, "" },
+    { 2.094221, "4fej", 1, "B", "U", "", 67, "" },
+    { 2.094221, "6h9h", 1, "D", "U", "", 2, "" },
+};
+
+static const RSEntryRaw rs_bin_220[] = {
+    { 2.094395, "3p4c", 1, "B", "U", "", 214, "" },
+    { 2.094395, "4pco", 1, "A", "U", "", 9, "" },
+    { 2.094395, "4xwf", 1, "A", "U", "", 58, "" },
+    { 2.094395, "6y0y", 1, "A", "U", "", 2650, "" },
+    { 2.094395, "7edt", 1, "B", "U", "", 17, "" },
+};
+
+static const RSEntryRaw rs_bin_221[] = {
+    { 2.094744, "5l00", 1, "A", "U", "", 12, "" },
+    { 2.094744, "5l00", 1, "A", "U", "", 8, "" },
+};
+
+static const RSEntryRaw rs_bin_222[] = {
+    { 2.095093, "4kre", 1, "R", "U", "", 6, "" },
+    { 2.095268, "6b14", 1, "R", "U", "", 34, "" },
+};
+
+static const RSEntryRaw rs_bin_223[] = {
+    { 2.095617, "2xo1", 1, "A", "U", "", 51, "" },
+    { 2.095617, "4pco", 1, "A", "U", "", 7, "" },
+    { 2.095791, "5b2o", 1, "B", "U", "", 91, "" },
+    { 2.095791, "7lne", 1, "B", "U", "", 8, "" },
+};
+
+static const RSEntryRaw rs_bin_224[] = {
+    { 2.096140, "7eoh", 1, "A", "U", "", 40, "" },
+};
+
+static const RSEntryRaw rs_bin_225[] = {
+    { 2.096315, "5b2o", 1, "B", "U", "", 30, "" },
+    { 2.096489, "5mwi", 1, "A", "U", "", 18, "" },
+};
+
+static const RSEntryRaw rs_bin_226[] = {
+    { 2.097013, "3la5", 1, "A", "U", "", 68, "" },
+    { 2.097013, "7eog", 1, "A", "U", "", 14, "" },
+};
+
+static const RSEntryRaw rs_bin_227[] = {
+    { 2.097362, "6dtd", 1, "C", "U", "", 14, "" },
+};
+
+static const RSEntryRaw rs_bin_228[] = {
+    { 2.097537, "7thb", 1, "E", "U", "", 4, "" },
+};
+
+static const RSEntryRaw rs_bin_229[] = {
+    { 2.098235, "7cgf", 1, "B", "U", "", 2, "" },
+};
+
+static const RSEntryRaw rs_bin_231[] = {
+    { 2.098758, "3la5", 1, "A", "U", "", 41, "" },
+    { 2.098933, "2oe8", 1, "A", "U", "", 1413, "" },
+};
+
+static const RSEntryRaw rs_bin_232[] = {
+    { 2.099107, "5c5w", 1, "A", "U", "", 4, "" },
+};
+
+static const RSEntryRaw rs_bin_233[] = {
+    { 2.099806, "3sj2", 1, "A", "U", "", 2, "" },
+    { 2.099806, "5b2o", 1, "B", "U", "", 23, "" },
+};
+
+static const RSEntryRaw rs_bin_234[] = {
+    { 2.099980, "6vrd", 1, "B", "U", "", 8, "" },
+    { 2.099980, "6y0t", 1, "B", "U", "", 2672, "" },
+};
+
+static const RSEntryRaw rs_bin_235[] = {
+    { 2.100329, "3glp", 1, "A", "U", "", 3, "" },
+};
+
+static const RSEntryRaw rs_bin_238[] = {
+    { 2.101551, "3nd3", 1, "A", "U", "", 11, "" },
+    { 2.101725, "5hby", 1, "A", "U", "", 12, "" },
+};
+
+static const RSEntryRaw rs_bin_239[] = {
+    { 2.102075, "3la5", 1, "A", "U", "", 70, "" },
+};
+
+static const RSEntryRaw rs_bin_240[] = {
+    { 2.102249, "2zko", 1, "D", "U", "", 15, "" },
+    { 2.102249, "5kla", 1, "B", "U", "", 3, "" },
+    { 2.102424, "5b2o", 1, "B", "U", "", 93, "" },
+};
+
+static const RSEntryRaw rs_bin_243[] = {
+    { 2.103645, "3syw", 1, "A", "U", "", 17, "" },
+    { 2.103645, "4rby", 1, "A", "U", "", 108, "" },
+};
+
+static const RSEntryRaw rs_bin_245[] = {
+    { 2.104518, "3gm7", 1, "G", "U", "", 5, "" },
+};
+
+static const RSEntryRaw rs_bin_246[] = {
+    { 2.104693, "3zp8", 1, "A", "U", "", 4, "" },
+    { 2.104693, "5nxt", 1, "U", "U", "", 32, "" },
+};
+
+static const RSEntryRaw rs_bin_247[] = {
+    { 2.105216, "7eoh", 1, "A", "U", "", 35, "" },
+};
+
+static const RSEntryRaw rs_bin_249[] = {
+    { 2.105914, "1hq1", 1, "B", "U", "", 146, "" },
+    { 2.106089, "6xh2", 1, "D", "U", "", 38, "" },
+};
+
+static const RSEntryRaw rs_bin_250[] = {
+    { 2.106263, "6c8j", 1, "B", "U", "", 12, "" },
+};
+
+static const RSEntryRaw rs_bin_252[] = {
+    { 2.107311, "3nd4", 1, "A", "U", "", 9, "" },
+};
+
+static const RSEntryRaw rs_bin_254[] = {
+    { 2.107834, "5b2o", 1, "B", "U", "", 80, "" },
+    { 2.108009, "2xo1", 1, "A", "U", "", 36, "" },
+};
+
+static const RSEntryRaw rs_bin_258[] = {
+    { 2.109405, "5mrx", 1, "A", "U", "", 2656, "" },
+    { 2.109579, "4j39", 1, "B", "U", "", 18, "" },
+    { 2.109579, "7ndj", 1, "C", "U", "", 1, "" },
+};
+
+static const RSEntryRaw rs_bin_260[] = {
+    { 2.110278, "2ees", 1, "A", "U", "", 30, "" },
+    { 2.110278, "7mjw", 1, "G", "U", "", 33, "" },
+};
+
+static const RSEntryRaw rs_bin_262[] = {
+    { 2.111150, "3nd4", 1, "A", "U", "", 11, "" },
+};
+
+static const RSEntryRaw rs_bin_268[] = {
+    { 2.113594, "5b2o", 1, "B", "U", "", 49, "" },
+};
+
+static const RSEntryRaw rs_bin_269[] = {
+    { 2.113768, "3nd4", 1, "A", "U", "", 16, "" },
+};
+
+static const RSEntryRaw rs_bin_275[] = {
+    { 2.116386, "4e5c", 1, "A", "U", "", 16, "" },
+};
+
+static const RSEntryRaw rs_bin_278[] = {
+    { 2.117433, "6xh2", 1, "D", "U", "", 31, "" },
+    { 2.117608, "2ees", 1, "A", "U", "", 69, "" },
+};
+
+static const RSEntryRaw rs_bin_294[] = {
+    { 2.123717, "2q1o", 1, "C", "U", "", 107, "" },
+};
+
+static const RSEntryRaw rs_bin_316[] = {
+    { 2.132443, "3nd3", 1, "A", "U", "", 10, "" },
+};
+
+static const RSEntryRaw rs_bin_328[] = {
+    { 2.137330, "3nd4", 1, "A", "U", "", 14, "" },
+};
+
+static const RSEntryRaw rs_bin_352[] = {
+    { 2.146930, "1qc0", 1, "A", "U", "", 11, "" },
+};
+
+static const RSEntryRaw rs_bin_387[] = {
+    { 2.160718, "3czw", 1, "X", "U", "", 10, "" },
+};
+
+static const RSEntryRaw rs_bin_395[] = {
+    { 2.163859, "6vrd", 1, "B", "U", "", 1, "" },
+};
+
+static const RSEntryRaw rs_bin_475[] = {
+    { 2.195799, "3gm7", 1, "G", "U", "", 11, "" },
+};
+
+static const RSEntryRaw* const rs_bins[511] = {
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_34,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_48,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_61,
+    rs_bin_62,
+    rs_bin_63,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_72,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_81,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_95,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_103,
+    rs_bin_104,
+    nullptr,
+    rs_bin_106,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_114,
+    nullptr,
+    rs_bin_116,
+    nullptr,
+    nullptr,
+    rs_bin_119,
+    rs_bin_120,
+    rs_bin_121,
+    nullptr,
+    nullptr,
+    rs_bin_124,
+    nullptr,
+    nullptr,
+    rs_bin_127,
+    rs_bin_128,
+    rs_bin_129,
+    nullptr,
+    rs_bin_131,
+    rs_bin_132,
+    rs_bin_133,
+    rs_bin_134,
+    nullptr,
+    rs_bin_136,
+    rs_bin_137,
+    nullptr,
+    rs_bin_139,
+    rs_bin_140,
+    rs_bin_141,
+    nullptr,
+    rs_bin_143,
+    rs_bin_144,
+    rs_bin_145,
+    rs_bin_146,
+    rs_bin_147,
+    rs_bin_148,
+    rs_bin_149,
+    rs_bin_150,
+    rs_bin_151,
+    rs_bin_152,
+    rs_bin_153,
+    rs_bin_154,
+    nullptr,
+    rs_bin_156,
+    rs_bin_157,
+    rs_bin_158,
+    nullptr,
+    rs_bin_160,
+    rs_bin_161,
+    rs_bin_162,
+    nullptr,
+    rs_bin_164,
+    rs_bin_165,
+    rs_bin_166,
+    rs_bin_167,
+    rs_bin_168,
+    rs_bin_169,
+    rs_bin_170,
+    rs_bin_171,
+    rs_bin_172,
+    rs_bin_173,
+    rs_bin_174,
+    rs_bin_175,
+    rs_bin_176,
+    rs_bin_177,
+    rs_bin_178,
+    rs_bin_179,
+    rs_bin_180,
+    rs_bin_181,
+    rs_bin_182,
+    rs_bin_183,
+    rs_bin_184,
+    rs_bin_185,
+    rs_bin_186,
+    rs_bin_187,
+    rs_bin_188,
+    rs_bin_189,
+    rs_bin_190,
+    rs_bin_191,
+    rs_bin_192,
+    rs_bin_193,
+    rs_bin_194,
+    rs_bin_195,
+    rs_bin_196,
+    rs_bin_197,
+    rs_bin_198,
+    rs_bin_199,
+    rs_bin_200,
+    rs_bin_201,
+    rs_bin_202,
+    rs_bin_203,
+    rs_bin_204,
+    rs_bin_205,
+    rs_bin_206,
+    rs_bin_207,
+    rs_bin_208,
+    rs_bin_209,
+    rs_bin_210,
+    rs_bin_211,
+    nullptr,
+    rs_bin_213,
+    rs_bin_214,
+    rs_bin_215,
+    rs_bin_216,
+    rs_bin_217,
+    nullptr,
+    rs_bin_219,
+    rs_bin_220,
+    rs_bin_221,
+    rs_bin_222,
+    rs_bin_223,
+    rs_bin_224,
+    rs_bin_225,
+    rs_bin_226,
+    rs_bin_227,
+    rs_bin_228,
+    rs_bin_229,
+    nullptr,
+    rs_bin_231,
+    rs_bin_232,
+    rs_bin_233,
+    rs_bin_234,
+    rs_bin_235,
+    nullptr,
+    nullptr,
+    rs_bin_238,
+    rs_bin_239,
+    rs_bin_240,
+    nullptr,
+    nullptr,
+    rs_bin_243,
+    nullptr,
+    rs_bin_245,
+    rs_bin_246,
+    rs_bin_247,
+    nullptr,
+    rs_bin_249,
+    rs_bin_250,
+    nullptr,
+    rs_bin_252,
+    nullptr,
+    rs_bin_254,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_258,
+    nullptr,
+    rs_bin_260,
+    nullptr,
+    rs_bin_262,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_268,
+    rs_bin_269,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_275,
+    nullptr,
+    nullptr,
+    rs_bin_278,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_294,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_316,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_328,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_352,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_387,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_395,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    rs_bin_475,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+    nullptr,
+};
+
+static const size_t rs_bin_sizes[511] = {
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    3,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    3,
+    1,
+    0,
+    3,
+    3,
+    0,
+    2,
+    2,
+    2,
+    0,
+    1,
+    1,
+    3,
+    5,
+    1,
+    1,
+    3,
+    2,
+    3,
+    2,
+    3,
+    3,
+    0,
+    3,
+    4,
+    2,
+    0,
+    6,
+    2,
+    3,
+    0,
+    7,
+    1,
+    3,
+    9,
+    1,
+    6,
+    3,
+    2,
+    2,
+    5,
+    3,
+    9,
+    5,
+    4,
+    6,
+    4,
+    6,
+    8,
+    3,
+    8,
+    8,
+    7,
+    7,
+    11,
+    12,
+    9,
+    10,
+    7,
+    9,
+    22,
+    7,
+    10,
+    12,
+    10,
+    4,
+    14,
+    14,
+    4,
+    6,
+    4,
+    3,
+    6,
+    3,
+    5,
+    6,
+    6,
+    6,
+    4,
+    0,
+    1,
+    3,
+    6,
+    2,
+    6,
+    0,
+    3,
+    5,
+    2,
+    2,
+    4,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    0,
+    2,
+    1,
+    2,
+    2,
+    1,
+    0,
+    0,
+    2,
+    1,
+    3,
+    0,
+    0,
+    2,
+    0,
+    1,
+    2,
+    1,
+    0,
+    2,
+    1,
+    0,
+    1,
+    0,
+    2,
+    0,
+    0,
+    0,
+    3,
+    0,
+    2,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+};
+
+extern const MeasurementData data_U_angle_N3_C4_O4;
+const MeasurementData data_U_angle_N3_C4_O4 = {
+    {
+        { "U/DU", 119.5, 0.7 }
+    },
+    {
+        { 2.006954, 2.007351, 2.007748, 2.008145, 2.008542, 2.008939, 2.009335, 2.009732, 2.010129, 2.010526, 2.010923, 2.011320, 2.011717, 2.012114, 2.012510, 2.012907, 2.013304, 2.013701, 2.014098, 2.014495, 2.014892, 2.015289, 2.015686, 2.016082, 2.016479, 2.016876, 2.017273, 2.017670, 2.018067, 2.018464, 2.018861, 2.019257, 2.019654, 2.020051, 2.020448, 2.020845, 2.021242, 2.021639, 2.022036, 2.022433, 2.022829, 2.023226, 2.023623, 2.024020, 2.024417, 2.024814, 2.025211, 2.025608, 2.026004, 2.026401, 2.026798, 2.027195, 2.027592, 2.027989, 2.028386, 2.028783, 2.029180, 2.029576, 2.029973, 2.030370, 2.030767, 2.031164, 2.031561, 2.031958, 2.032355, 2.032752, 2.033148, 2.033545, 2.033942, 2.034339, 2.034736, 2.035133, 2.035530, 2.035927, 2.036323, 2.036720, 2.037117, 2.037514, 2.037911, 2.038308, 2.038705, 2.039102, 2.039499, 2.039895, 2.040292, 2.040689, 2.041086, 2.041483, 2.041880, 2.042277, 2.042674, 2.043070, 2.043467, 2.043864, 2.044261, 2.044658, 2.045055, 2.045452, 2.045849, 2.046246, 2.046642, 2.047039, 2.047436, 2.047833, 2.048230, 2.048627, 2.049024, 2.049421, 2.049817, 2.050214, 2.050611, 2.051008, 2.051405, 2.051802, 2.052199, 2.052596, 2.052993, 2.053389, 2.053786, 2.054183, 2.054580, 2.054977, 2.055374, 2.055771, 2.056168, 2.056564, 2.056961, 2.057358, 2.057755, 2.058152, 2.058549, 2.058946, 2.059343, 2.059740, 2.060136, 2.060533, 2.060930, 2.061327, 2.061724, 2.062121, 2.062518, 2.062915, 2.063312, 2.063708, 2.064105, 2.064502, 2.064899, 2.065296, 2.065693, 2.066090, 2.066487, 2.066883, 2.067280, 2.067677, 2.068074, 2.068471, 2.068868, 2.069265, 2.069662, 2.070059, 2.070455, 2.070852, 2.071249, 2.071646, 2.072043, 2.072440, 2.072837, 2.073234, 2.073630, 2.074027, 2.074424, 2.074821, 2.075218, 2.075615, 2.076012, 2.076409, 2.076806, 2.077202, 2.077599, 2.077996, 2.078393, 2.078790, 2.079187, 2.079584, 2.079981, 2.080377, 2.080774, 2.081171, 2.081568, 2.081965, 2.082362, 2.082759, 2.083156, 2.083553, 2.083949, 2.084346, 2.084743, 2.085140, 2.085537, 2.085934, 2.086331, 2.086728, 2.087124, 2.087521, 2.087918, 2.088315, 2.088712, 2.089109, 2.089506, 2.089903, 2.090300, 2.090696, 2.091093, 2.091490, 2.091887, 2.092284, 2.092681, 2.093078, 2.093475, 2.093872, 2.094268, 2.094665, 2.095062, 2.095459, 2.095856, 2.096253, 2.096650, 2.097047, 2.097443, 2.097840, 2.098237, 2.098634, 2.099031, 2.099428, 2.099825, 2.100222, 2.100619, 2.101015, 2.101412, 2.101809, 2.102206, 2.102603, 2.103000, 2.103397, 2.103794, 2.104190, 2.104587, 2.104984, 2.105381, 2.105778, 2.106175, 2.106572, 2.106969, 2.107366, 2.107762, 2.108159, 2.108556, 2.108953, 2.109350, 2.109747, 2.110144, 2.110541, 2.110937, 2.111334, 2.111731, 2.112128, 2.112525, 2.112922, 2.113319, 2.113716, 2.114113, 2.114509, 2.114906, 2.115303, 2.115700, 2.116097, 2.116494, 2.116891, 2.117288, 2.117684, 2.118081, 2.118478, 2.118875, 2.119272, 2.119669, 2.120066, 2.120463, 2.120860, 2.121256, 2.121653, 2.122050, 2.122447, 2.122844, 2.123241, 2.123638, 2.124035, 2.124432, 2.124828, 2.125225, 2.125622, 2.126019, 2.126416, 2.126813, 2.127210, 2.127607, 2.128003, 2.128400, 2.128797, 2.129194, 2.129591, 2.129988, 2.130385, 2.130782, 2.131179, 2.131575, 2.131972, 2.132369, 2.132766, 2.133163, 2.133560, 2.133957, 2.134354, 2.134750, 2.135147, 2.135544, 2.135941, 2.136338, 2.136735, 2.137132, 2.137529, 2.137926, 2.138322, 2.138719, 2.139116, 2.139513, 2.139910, 2.140307, 2.140704, 2.141101, 2.141497, 2.141894, 2.142291, 2.142688, 2.143085, 2.143482, 2.143879, 2.144276, 2.144673, 2.145069, 2.145466, 2.145863, 2.146260, 2.146657, 2.147054, 2.147451, 2.147848, 2.148244, 2.148641, 2.149038, 2.149435, 2.149832, 2.150229, 2.150626, 2.151023, 2.151420, 2.151816, 2.152213, 2.152610, 2.153007, 2.153404, 2.153801, 2.154198, 2.154595, 2.154991, 2.155388, 2.155785, 2.156182, 2.156579, 2.156976, 2.157373, 2.157770, 2.158167, 2.158563, 2.158960, 2.159357, 2.159754, 2.160151, 2.160548, 2.160945, 2.161342, 2.161739, 2.162135, 2.162532, 2.162929, 2.163326, 2.163723, 2.164120, 2.164517, 2.164914, 2.165310, 2.165707, 2.166104, 2.166501, 2.166898, 2.167295, 2.167692, 2.168089, 2.168486, 2.168882, 2.169279, 2.169676, 2.170073, 2.170470, 2.170867, 2.171264, 2.171661, 2.172057, 2.172454, 2.172851, 2.173248, 2.173645, 2.174042, 2.174439, 2.174836, 2.175233, 2.175629, 2.176026, 2.176423, 2.176820, 2.177217, 2.177614, 2.178011, 2.178408, 2.178804, 2.179201, 2.179598, 2.179995, 2.180392, 2.180789, 2.181186, 2.181583, 2.181980, 2.182376, 2.182773, 2.183170, 2.183567, 2.183964, 2.184361, 2.184758, 2.185155, 2.185551, 2.185948, 2.186345, 2.186742, 2.187139, 2.187536, 2.187933, 2.188330, 2.188727, 2.189123, 2.189520, 2.189917, 2.190314, 2.190711, 2.191108, 2.191505, 2.191902, 2.192299, 2.192695, 2.193092, 2.193489, 2.193886, 2.194283, 2.194680, 2.195077, 2.195474, 2.195870, 2.196267, 2.196664, 2.197061, 2.197458, 2.197855, 2.198252, 2.198649, 2.199046, 2.199442, 2.199839, 2.200236, 2.200633, 2.201030, 2.201427, 2.201824, 2.202221, 2.202617, 2.203014, 2.203411, 2.203808, 2.204205, 2.204602, 2.204999, 2.205396, 2.205793, 2.206189, 2.206586, 2.206983, 2.207380, 2.207777, 2.208174, 2.208571, 2.208968, 2.209364 },
+        { 2.007351, 2.007748, 2.008145, 2.008542, 2.008939, 2.009335, 2.009732, 2.010129, 2.010526, 2.010923, 2.011320, 2.011717, 2.012114, 2.012510, 2.012907, 2.013304, 2.013701, 2.014098, 2.014495, 2.014892, 2.015289, 2.015686, 2.016082, 2.016479, 2.016876, 2.017273, 2.017670, 2.018067, 2.018464, 2.018861, 2.019257, 2.019654, 2.020051, 2.020448, 2.020845, 2.021242, 2.021639, 2.022036, 2.022433, 2.022829, 2.023226, 2.023623, 2.024020, 2.024417, 2.024814, 2.025211, 2.025608, 2.026004, 2.026401, 2.026798, 2.027195, 2.027592, 2.027989, 2.028386, 2.028783, 2.029180, 2.029576, 2.029973, 2.030370, 2.030767, 2.031164, 2.031561, 2.031958, 2.032355, 2.032752, 2.033148, 2.033545, 2.033942, 2.034339, 2.034736, 2.035133, 2.035530, 2.035927, 2.036323, 2.036720, 2.037117, 2.037514, 2.037911, 2.038308, 2.038705, 2.039102, 2.039499, 2.039895, 2.040292, 2.040689, 2.041086, 2.041483, 2.041880, 2.042277, 2.042674, 2.043070, 2.043467, 2.043864, 2.044261, 2.044658, 2.045055, 2.045452, 2.045849, 2.046246, 2.046642, 2.047039, 2.047436, 2.047833, 2.048230, 2.048627, 2.049024, 2.049421, 2.049817, 2.050214, 2.050611, 2.051008, 2.051405, 2.051802, 2.052199, 2.052596, 2.052993, 2.053389, 2.053786, 2.054183, 2.054580, 2.054977, 2.055374, 2.055771, 2.056168, 2.056564, 2.056961, 2.057358, 2.057755, 2.058152, 2.058549, 2.058946, 2.059343, 2.059740, 2.060136, 2.060533, 2.060930, 2.061327, 2.061724, 2.062121, 2.062518, 2.062915, 2.063312, 2.063708, 2.064105, 2.064502, 2.064899, 2.065296, 2.065693, 2.066090, 2.066487, 2.066883, 2.067280, 2.067677, 2.068074, 2.068471, 2.068868, 2.069265, 2.069662, 2.070059, 2.070455, 2.070852, 2.071249, 2.071646, 2.072043, 2.072440, 2.072837, 2.073234, 2.073630, 2.074027, 2.074424, 2.074821, 2.075218, 2.075615, 2.076012, 2.076409, 2.076806, 2.077202, 2.077599, 2.077996, 2.078393, 2.078790, 2.079187, 2.079584, 2.079981, 2.080377, 2.080774, 2.081171, 2.081568, 2.081965, 2.082362, 2.082759, 2.083156, 2.083553, 2.083949, 2.084346, 2.084743, 2.085140, 2.085537, 2.085934, 2.086331, 2.086728, 2.087124, 2.087521, 2.087918, 2.088315, 2.088712, 2.089109, 2.089506, 2.089903, 2.090300, 2.090696, 2.091093, 2.091490, 2.091887, 2.092284, 2.092681, 2.093078, 2.093475, 2.093872, 2.094268, 2.094665, 2.095062, 2.095459, 2.095856, 2.096253, 2.096650, 2.097047, 2.097443, 2.097840, 2.098237, 2.098634, 2.099031, 2.099428, 2.099825, 2.100222, 2.100619, 2.101015, 2.101412, 2.101809, 2.102206, 2.102603, 2.103000, 2.103397, 2.103794, 2.104190, 2.104587, 2.104984, 2.105381, 2.105778, 2.106175, 2.106572, 2.106969, 2.107366, 2.107762, 2.108159, 2.108556, 2.108953, 2.109350, 2.109747, 2.110144, 2.110541, 2.110937, 2.111334, 2.111731, 2.112128, 2.112525, 2.112922, 2.113319, 2.113716, 2.114113, 2.114509, 2.114906, 2.115303, 2.115700, 2.116097, 2.116494, 2.116891, 2.117288, 2.117684, 2.118081, 2.118478, 2.118875, 2.119272, 2.119669, 2.120066, 2.120463, 2.120860, 2.121256, 2.121653, 2.122050, 2.122447, 2.122844, 2.123241, 2.123638, 2.124035, 2.124432, 2.124828, 2.125225, 2.125622, 2.126019, 2.126416, 2.126813, 2.127210, 2.127607, 2.128003, 2.128400, 2.128797, 2.129194, 2.129591, 2.129988, 2.130385, 2.130782, 2.131179, 2.131575, 2.131972, 2.132369, 2.132766, 2.133163, 2.133560, 2.133957, 2.134354, 2.134750, 2.135147, 2.135544, 2.135941, 2.136338, 2.136735, 2.137132, 2.137529, 2.137926, 2.138322, 2.138719, 2.139116, 2.139513, 2.139910, 2.140307, 2.140704, 2.141101, 2.141497, 2.141894, 2.142291, 2.142688, 2.143085, 2.143482, 2.143879, 2.144276, 2.144673, 2.145069, 2.145466, 2.145863, 2.146260, 2.146657, 2.147054, 2.147451, 2.147848, 2.148244, 2.148641, 2.149038, 2.149435, 2.149832, 2.150229, 2.150626, 2.151023, 2.151420, 2.151816, 2.152213, 2.152610, 2.153007, 2.153404, 2.153801, 2.154198, 2.154595, 2.154991, 2.155388, 2.155785, 2.156182, 2.156579, 2.156976, 2.157373, 2.157770, 2.158167, 2.158563, 2.158960, 2.159357, 2.159754, 2.160151, 2.160548, 2.160945, 2.161342, 2.161739, 2.162135, 2.162532, 2.162929, 2.163326, 2.163723, 2.164120, 2.164517, 2.164914, 2.165310, 2.165707, 2.166104, 2.166501, 2.166898, 2.167295, 2.167692, 2.168089, 2.168486, 2.168882, 2.169279, 2.169676, 2.170073, 2.170470, 2.170867, 2.171264, 2.171661, 2.172057, 2.172454, 2.172851, 2.173248, 2.173645, 2.174042, 2.174439, 2.174836, 2.175233, 2.175629, 2.176026, 2.176423, 2.176820, 2.177217, 2.177614, 2.178011, 2.178408, 2.178804, 2.179201, 2.179598, 2.179995, 2.180392, 2.180789, 2.181186, 2.181583, 2.181980, 2.182376, 2.182773, 2.183170, 2.183567, 2.183964, 2.184361, 2.184758, 2.185155, 2.185551, 2.185948, 2.186345, 2.186742, 2.187139, 2.187536, 2.187933, 2.188330, 2.188727, 2.189123, 2.189520, 2.189917, 2.190314, 2.190711, 2.191108, 2.191505, 2.191902, 2.192299, 2.192695, 2.193092, 2.193489, 2.193886, 2.194283, 2.194680, 2.195077, 2.195474, 2.195870, 2.196267, 2.196664, 2.197061, 2.197458, 2.197855, 2.198252, 2.198649, 2.199046, 2.199442, 2.199839, 2.200236, 2.200633, 2.201030, 2.201427, 2.201824, 2.202221, 2.202617, 2.203014, 2.203411, 2.203808, 2.204205, 2.204602, 2.204999, 2.205396, 2.205793, 2.206189, 2.206586, 2.206983, 2.207380, 2.207777, 2.208174, 2.208571, 2.208968, 2.209364, 2.209761 },
+        { 7.02e-06, 1.12e-05, 1.65e-05, 2.31e-05, 3.14e-05, 4.17e-05, 5.45e-05, 7.01e-05, 8.93e-05, 0.000119, 0.000148, 0.000183, 0.000225, 0.000274, 0.000331, 0.000398, 0.000475, 0.000564, 0.000666, 0.00081, 0.000977, 0.00113, 0.0013, 0.00158, 0.00209, 0.0027, 0.00345, 0.00432, 0.00469, 0.00516, 0.00576, 0.00668, 0.00747, 0.0081, 0.0103, 0.0122, 0.0143, 0.0146, 0.0149, 0.0152, 0.0155, 0.0158, 0.016, 0.0163, 0.0167, 0.0169, 0.0173, 0.0177, 0.0195, 0.0207, 0.0214, 0.0226, 0.0234, 0.0242, 0.025, 0.0262, 0.0267, 0.0273, 0.0286, 0.0292, 0.0298, 0.0304, 0.0311, 0.032, 0.0314, 0.0308, 0.0301, 0.0295, 0.0289, 0.0279, 0.027, 0.0264, 0.0256, 0.0247, 0.0239, 0.0231, 0.0224, 0.0219, 0.0209, 0.0204, 0.0197, 0.0191, 0.0186, 0.0182, 0.018, 0.0184, 0.0188, 0.0193, 0.0202, 0.0211, 0.0221, 0.0229, 0.0245, 0.0259, 0.0282, 0.0317, 0.0327, 0.0334, 0.0342, 0.035, 0.0358, 0.0368, 0.0378, 0.0388, 0.0399, 0.0411, 0.0424, 0.0437, 0.0451, 0.0466, 0.0482, 0.0499, 0.0526, 0.0546, 0.0566, 0.0587, 0.0621, 0.0646, 0.0684, 0.0711, 0.0753, 0.0798, 0.083, 0.088, 0.0932, 0.0988, 0.103, 0.109, 0.113, 0.12, 0.124, 0.129, 0.134, 0.14, 0.145, 0.151, 0.157, 0.163, 0.169, 0.173, 0.179, 0.187, 0.194, 0.198, 0.206, 0.21, 0.218, 0.226, 0.231, 0.24, 0.245, 0.254, 0.259, 0.269, 0.28, 0.285, 0.296, 0.302, 0.314, 0.326, 0.333, 0.346, 0.359, 0.366, 0.381, 0.396, 0.404, 0.42, 0.436, 0.454, 0.463, 0.481, 0.5, 0.52, 0.541, 0.552, 0.574, 0.596, 0.62, 0.644, 0.669, 0.695, 0.722, 0.749, 0.777, 0.791, 0.82, 0.849, 0.879, 0.909, 0.939, 0.969, 1, 0.985, 0.954, 0.924, 0.894, 0.864, 0.834, 0.805, 0.763, 0.735, 0.708, 0.682, 0.657, 0.632, 0.608, 0.585, 0.562, 0.53, 0.51, 0.49, 0.472, 0.445, 0.428, 0.411, 0.388, 0.373, 0.352, 0.339, 0.32, 0.308, 0.291, 0.275, 0.264, 0.249, 0.235, 0.222, 0.214, 0.202, 0.19, 0.183, 0.176, 0.166, 0.16, 0.154, 0.148, 0.142, 0.137, 0.132, 0.127, 0.122, 0.117, 0.115, 0.111, 0.107, 0.105, 0.101, 0.0969, 0.095, 0.0914, 0.0897, 0.0863, 0.0846, 0.0814, 0.0783, 0.0768, 0.0739, 0.0724, 0.0697, 0.0671, 0.0658, 0.0633, 0.061, 0.0598, 0.0576, 0.0556, 0.0536, 0.0517, 0.0508, 0.0491, 0.0474, 0.0459, 0.0444, 0.043, 0.0417, 0.0405, 0.0394, 0.0383, 0.0373, 0.0363, 0.0354, 0.0346, 0.0338, 0.033, 0.0324, 0.0276, 0.0253, 0.0237, 0.0216, 0.02, 0.0175, 0.0171, 0.0165, 0.0162, 0.0156, 0.0153, 0.015, 0.0147, 0.0145, 0.0141, 0.0123, 0.011, 0.0102, 0.00952, 0.00919, 0.00864, 0.00831, 0.00821, 0.00842, 0.00886, 0.00897, 0.00941, 0.00963, 0.00997, 0.0105, 0.0109, 0.0114, 0.0117, 0.012, 0.0125, 0.0128, 0.0131, 0.0133, 0.0132, 0.0129, 0.0126, 0.0118, 0.0115, 0.0113, 0.0108, 0.0104, 0.00986, 0.0093, 0.00875, 0.00799, 0.00778, 0.00757, 0.00737, 0.00716, 0.00697, 0.00687, 0.00677, 0.00639, 0.0063, 0.00621, 0.00612, 0.00585, 0.00567, 0.00558, 0.0055, 0.00524, 0.00508, 0.00492, 0.00476, 0.00461, 0.00446, 0.00418, 0.00391, 0.00338, 0.00307, 0.00288, 0.00253, 0.00236, 0.00204, 0.00193, 0.00183, 0.00173, 0.00168, 0.00178, 0.00198, 0.00225, 0.00242, 0.00265, 0.00313, 0.00371, 0.00425, 0.00454, 0.005, 0.00541, 0.00603, 0.00649, 0.00706, 0.00767, 0.00853, 0.00975, 0.0107, 0.0116, 0.0127, 0.0136, 0.0138, 0.0142, 0.0139, 0.0137, 0.0134, 0.0121, 0.0111, 0.0101, 0.00908, 0.00788, 0.00726, 0.00658, 0.00594, 0.00533, 0.00484, 0.00439, 0.00351, 0.00282, 0.0022, 0.00153, 0.00125, 0.00109, 0.000908, 0.00075, 0.000639, 0.000541, 0.000455, 0.000364, 0.000288, 0.000237, 0.000193, 0.000156, 0.000126, 0.0001, 7.9e-05, 6.17e-05, 4.76e-05, 3.62e-05, 2.69e-05, 1.96e-05, 1.37e-05, 8e-06, 4.47e-06, 2.98e-06, 1.71e-06, 5.56e-07, 1.12e-06, 2.31e-06, 3.67e-06, 5.28e-06, 8.99e-06, 1.24e-05, 1.8e-05, 2.5e-05, 3.38e-05, 4.46e-05, 5.8e-05, 7.45e-05, 9.46e-05, 0.000113, 0.000141, 0.000174, 0.000214, 0.000261, 0.000316, 0.000381, 0.000436, 0.000518, 0.000613, 0.00072, 0.000841, 0.000943, 0.00105, 0.00121, 0.00138, 0.00148, 0.00188, 0.00231, 0.00259, 0.00294, 0.00319, 0.00332, 0.00364, 0.00384, 0.00404, 0.00411, 0.00397, 0.00377, 0.00358, 0.00325, 0.003, 0.00276, 0.00247, 0.00214, 0.00163, 0.00143, 0.00134, 0.00117, 0.00101, 0.000875, 0.00078, 0.000692, 0.000588, 0.000497, 0.000417, 0.000347, 0.000302, 0.000248, 0.000203, 0.000165, 0.000133, 0.000106, 8.4e-05, 6.58e-05, 5.1e-05, 3.89e-05, 2.92e-05, 2.13e-05, 1.51e-05, 1.01e-05, 6.14e-06 },
+        rs_bins,
+        rs_bin_sizes,
+        511,
+        { 2.082343, 0.014363, 0.011529, 2.010529, 2.139987 }
+    }
+};
+
+} // namespace data
+} // namespace libnaval
