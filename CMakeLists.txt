@@ -29,13 +29,17 @@ set_target_properties(naval PROPERTIES POSITION_INDEPENDENT_CODE ON)
 
 # CLI executable
 if(BUILD_CLI)
-    add_executable(naval_cli src/naval_cli.cpp)
-    target_link_libraries(naval_cli PRIVATE naval)
-    target_include_directories(naval_cli PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/external/CLI11/include)
+    if(NOT EXISTS "${CMAKE_CURRENT_SOURCE_DIR}/external/CLI11/include/CLI/CLI.hpp")
+        message(WARNING "CLI11 not found, skipping CLI tool. Initialize submodules by:\ngit submodule update --init --recursive")
+    else()
+        add_executable(naval_cli src/naval_cli.cpp)
+        target_link_libraries(naval_cli PRIVATE naval)
+        target_include_directories(naval_cli PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/external/CLI11/include)
 
-    install(TARGETS naval_cli
-        RUNTIME DESTINATION bin
-    )
+        install(TARGETS naval_cli
+            RUNTIME DESTINATION bin
+        )
+    endif()
 endif()
 
 # Python bindings
